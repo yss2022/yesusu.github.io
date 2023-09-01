@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as s,Q as p}from"./chunks/framework.01af844e.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"初始化.md","filePath":"初始化.md"}'),t={name:"初始化.md"},n=p("",9),o=[n];function l(i,c,d,r,h,m){return a(),s("div",null,o)}const b=e(t,[["render",l]]);export{u as __pageData,b as default};
